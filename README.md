@@ -69,11 +69,13 @@ This project involves the design and implementation of a user-friendly eCommerce
 1. Clone the repository:
    ```bash
    git clone https://github.com/kelvinnambale/bigfocus-website.git
-2. cd bigfocus-website
-3. Set up a local server using XAMPP or MAMP and create a MySQL database for the project.
-4. Import the database schema from the provided SQL file to set up your database tables.
-5. Configure your database connection settings in the PHP files.
-6. Open your browser and navigate to http://localhost/bigfocus-website to view the site.
+2. Navigate to the directory
+   ```bash
+   cd bigfocus-website
+4. Set up a local server using XAMPP or MAMP and create a MySQL database for the project.
+5. Import the database schema from the provided SQL file to set up your database tables.
+6. Configure your database connection settings in the PHP files.
+7. Open your browser and navigate to http://localhost/bigfocus-website to view the site.
 
 ## Usage
 The website provides a standard eCommerce experience, allowing users to browse products, add items to their cart, and proceed to checkout.
